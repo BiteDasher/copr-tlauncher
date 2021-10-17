@@ -21,7 +21,7 @@ Requires:	xdg-utils
 
 BuildRequires:	unzip
 
-BuildArch:	x86_64
+BuildArch:	noarch
 
 %description
 Unofficial Minecraft: Java Edition launcher
