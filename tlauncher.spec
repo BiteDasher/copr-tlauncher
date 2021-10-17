@@ -5,7 +5,7 @@ Version:	2.82
 Release:	1
 Summary:	Unofficial Minecraft launcher
 License:	Custom
-Source0:	https://dl2.tlauncher.org/f.php?f=files%2FTLauncher-%{version}.zip
+Source0:	https://tlauncher.org/download/14724
 Source1:	https://tlauncher.org/fav-icon-512.png
 Source2:	https://raw.githubusercontent.com/BiteDasher/copr-tlauncher/master/%{name}.desktop
 Source3:	https://raw.githubusercontent.com/BiteDasher/copr-tlauncher/master/%{name}
