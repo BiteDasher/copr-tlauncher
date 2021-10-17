@@ -18,6 +18,7 @@ Requires:	xrandr
 Requires:	cairo
 Requires:	pango
 Requires:	xdg-utils
+Requires:	bash
 
 BuildRequires:	unzip
 
