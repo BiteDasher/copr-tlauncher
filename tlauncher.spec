@@ -10,7 +10,8 @@ Source1:	https://tlauncher.org/fav-icon-512.png
 Source2:	https://raw.githubusercontent.com/BiteDasher/copr-tlauncher/master/%{name}.desktop
 Source3:	https://raw.githubusercontent.com/BiteDasher/copr-tlauncher/master/%{name}
 
-Requires:	libjawt.so
+Requires:	jre-openjdk
+Requires:	jre-headless
 Requires:	atk
 Requires:	libdrm
 Requires:	fontconfig
