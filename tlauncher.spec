@@ -1,11 +1,11 @@
 %define secname TLauncher
 
 Name:		tlauncher
-Version:	2.82
-Release:	3
+Version:	2.83
+Release:	1
 Summary:	Unofficial Minecraft launcher
 License:	Custom
-Source0:	https://tlauncher.org/download/14724
+Source0:	https://tlauncher.org/download/15067
 Source1:	https://tlauncher.org/fav-icon-512.png
 Source2:	%{name}.desktop
 Source3:	%{name}
